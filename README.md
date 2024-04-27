@@ -2,6 +2,8 @@
 
 # Hello GitHub Actions
 
+- Add an emoji to test the WF :smile:
+
 _Create and run a GitHub Actions workflow._
 
 </header>
